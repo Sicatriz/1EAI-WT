@@ -2,9 +2,9 @@
 
 
 if(!empty($_POST["submit"])) {
-	$fullname = $_POST["fullname"];
+	$fullname = $_POST["name"];
 	$email = $_POST["email"];
-	$user_message = $_POST["user_message"];
+	$user_message = $_POST["message"];
 
 	$servername = "localhost";
 	$username = "dbuser";
@@ -15,7 +15,7 @@ if(!empty($_POST["submit"])) {
 	$conn = new mysqli($servername, $username, $password, $dbname);
 	
 	mysql_select_db("mncDB",$conn);
-	mysql_query("INSERT INTO Contact (LastName, Mail, Phone) VALUES ('" . $fullname. "', '" . $email. "','" . $user_message. "')");
+	mysql_query("INSERT INTO mncFrom (Naam, Mail, Bericht) VALUES ('" . $fullname. "', '" . $email. "','" . $user_message. "')");
 	$insert_id = mysql_insert_id();
 	if(!empty($insert_id)) {
 	$message = "Successfully Added.";

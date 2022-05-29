@@ -2,12 +2,18 @@
 <dwsync>
 <file name=".gitignore" server="192.168.1.25//var/www/html/" local="132918272909774138" remote="132965788090000000" Dst="2" />
 <file name="Caddyfile" server="192.168.1.25//var/www/html/" local="132965768889140597" remote="132965788200000000" Dst="2" />
-<file name="index.html" server="192.168.1.25//var/www/html/" local="132959757680992264" remote="132965788200000000" Dst="2" />
 <file name="inner-page.html" server="192.168.1.25//var/www/html/" local="132819590900000000" remote="132965788200000000" Dst="2" />
-<file name="portfolio-details.html" server="192.168.1.25//var/www/html/" local="132959782041013188" remote="132965788200000000" Dst="2" />
-<file name="portfolio-project1.html" server="192.168.1.25//var/www/html/" local="132959782155354232" remote="132965788200000000" Dst="2" />
+<file name="portfolio-details.html" server="192.168.1.25//var/www/html/" local="132982171500456663" remote="132982269520000000" Dst="2" />
 <file name="README.md" server="192.168.1.25//var/www/html/" local="132918272909774138" remote="132965788200000000" Dst="2" />
-<file name="email.php" server="192.168.1.25//var/www/html/" local="132972093380804762" remote="132972093460000000" Dst="2" />
-<file name="contacttest.html" server="192.168.1.25//var/www/html/" local="132971824450744351" remote="132971826210000000" Dst="2" />
+<file name="contacttest.html" server="192.168.1.25//var/www/html/" local="132972088962571493" remote="132982155930000000" Dst="2" />
 <file name="contactformtest.html" server="192.168.1.25//var/www/html/" local="132972052063462788" remote="132972052260000000" Dst="2" />
+<file name="portfolio-project1.html" server="192.168.1.25//var/www/html/" local="132982572109502884" remote="132982520080000000" Dst="2" />
+<file name="portfolio-project2.html" server="192.168.1.25//var/www/html/" local="132982572632202803" remote="132982520080000000" Dst="2" />
+<file name="portfolio-project3.html" server="192.168.1.25//var/www/html/" local="132982573000597699" remote="132982520090000000" Dst="2" />
+<file name="email.php" server="192.168.1.25//var/www/html/" local="132982545738861339" remote="132982492840000000" Dst="2" />
+<file name="emailBad.php" server="192.168.1.25//var/www/html/" local="132972093380804762" remote="132982462570000000" Dst="2" />
+<file name="connect.php" server="192.168.1.25//var/www/html/" local="132982521888146735" remote="132982468420000000" Dst="2" />
+<file name="dataInput.php" server="192.168.1.25//var/www/html/" local="132982592050635851" remote="132982538590000000" Dst="2" />
+<file name="index.php" server="192.168.1.25//var/www/html/" local="132982931915585738" remote="132982931960000000" Dst="2" />
+<file name="mailInput.php" server="192.168.1.25//var/www/html/" local="132982608624483521" remote="132982555150000000" Dst="2" />
 </dwsync>
