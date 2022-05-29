@@ -275,7 +275,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Geprikkeld? Neem gerust contact met ons op via het formulier hieronder</p>
+          <p>Geprikkeld? Neem gerust contact met ons op via het formulier hieronder.</p>
         </div>
 
         <div class="row">
